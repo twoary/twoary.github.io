@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#3DDC84">
+  <!-- Android robot head -->
+  <rect x="8" y="2" width="8" height="8" rx="1" fill="#3DDC84"/>
+  <!-- Left antenna -->
+  <circle cx="6" cy="1" r="1.5" fill="#3DDC84"/>
+  <!-- Right antenna -->
+  <circle cx="18" cy="1" r="1.5" fill="#3DDC84"/>
+  <!-- Left eye -->
+  <circle cx="10" cy="5" r="1" fill="white"/>
+  <!-- Right eye -->
+  <circle cx="14" cy="5" r="1" fill="white"/>
+  <!-- Body -->
+  <rect x="7" y="10" width="10" height="10" rx="1" fill="#3DDC84"/>
+  <!-- Left arm -->
+  <rect x="2" y="12" width="5" height="3" rx="1.5" fill="#3DDC84"/>
+  <!-- Right arm -->
+  <rect x="17" y="12" width="5" height="3" rx="1.5" fill="#3DDC84"/>
+  <!-- Smile -->
+  <path d="M 10 14 Q 12 15 14 14" stroke="white" stroke-width="0.5" fill="none"/>
+</svg>
