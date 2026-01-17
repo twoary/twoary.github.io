@@ -1,3 +1,3 @@
 # Twoary private limited
 
-Welcome to the Twoary project! This is the initial README file.
+Welcome to the Twoary project!
